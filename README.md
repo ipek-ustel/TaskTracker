@@ -100,3 +100,6 @@ Removes a task permanently from the storage file by its ID.
 **Example:**
 
 task-cli delete 1
+
+-----
+Project idea from: https://roadmap.sh/projects/task-tracker
