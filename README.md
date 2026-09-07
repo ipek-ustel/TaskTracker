@@ -82,6 +82,7 @@ Progress tasks across their lifecycle states.
 
 task-cli mark-in-progress 1
 
+\
 ***Mark task as completed:***
 
 **Syntax:** task-cli mark-done \<id>
